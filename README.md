@@ -1,5 +1,5 @@
 ### Hi 👋 from France 🇫🇷
-I'm a JavaScript dev and I’m currently learning Python 🌱.
+I'm a JavaScript dev 🌱.
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/gregory-michalak-b1613b22a/) 🖇.
 
